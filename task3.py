@@ -1,3 +1,4 @@
+def main():
     color1 = "gray"
     color2 = "pink"
     print(f"1) Roll a ball using {color1}")
