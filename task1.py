@@ -1,4 +1,5 @@
- # Enter your color.
+def main():
+    # Enter your color.
     color1 = "blue"
 
     print(f"1) Use {color1} to roll a medium-sized ball.\n")
@@ -24,4 +25,4 @@
     print('9) Write "Turtle" on the name card.')
 
 if __name__ == "__main__":
-
+    main()
