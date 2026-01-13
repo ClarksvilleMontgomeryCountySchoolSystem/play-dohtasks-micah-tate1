@@ -1,4 +1,5 @@
-"
+def main():
+    color1 = "blue"
     color2 = "red"
     print(f"1) Use {color2} to roll a ball.")
     choice1 = input("1, 2, or 3? ")
@@ -22,4 +23,4 @@
     print(f"6) Write {choice3} on the name card.")
 
 if __name__ == "__main__":
-
+    main()
